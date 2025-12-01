@@ -2,6 +2,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
  My hobbies are watching films with my family, walking, taking pictures for memories, coding and sleeping.
 <style>

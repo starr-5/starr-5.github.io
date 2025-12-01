@@ -2,6 +2,7 @@
 ---
 layout: page
 title: Contact
+permalink: /contact/
 ---
 Email: studying12567@gmail.com  
 Social: [GitHub](https://github.com/starr-5)
