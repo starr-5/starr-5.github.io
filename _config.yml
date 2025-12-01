@@ -92,7 +92,7 @@
 #   hide_site_feed_link: false
 title: My Portfolio
 description: "A soft-pink Jekyll portfolio"
-baseurl: "" # leave empty for root
+baseurl: "/my-portfolio" # leave empty for root
 url: "https://starr-5.github.io"
 
 theme: minima
