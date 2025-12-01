@@ -90,3 +90,18 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
+title: My Portfolio
+description: "A soft-pink Jekyll portfolio"
+baseurl: "" # leave empty for root
+url: "https://starr-5.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigation
+nav_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
