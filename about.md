@@ -54,9 +54,9 @@ title: About
 			</div>
 
 			<div class="bio">
-				<p>Hello — I’m {{ site.author.name | default: "Aida Baghirzade" }}, a designer & front-end developer who cares about clear interfaces, usable interactions, and delightful detail. I take product problems and turn them into practical, modern solutions using clean code and thoughtful visual design.</p>
+				<p>Hello — I’m {{ site.author.name | default: "Aida Baghirzade" }}, a student studying Computer Science. I take product problems and turn them into practical, modern solutions using clean code and thoughtful visual design.</p>
 
-				<p>My approach blends design thinking with pragmatic engineering — I prototype fast, iterate often, and ship polished projects that focus on user needs and accessibility.</p>
+				<p>. </p>
 
 				<div>
 					<strong>Core skills</strong>

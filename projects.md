@@ -52,7 +52,9 @@ title: Projects
 				<div class="card-figure">Project One — Image</div>
 				<div class="card-body">
 					<h3 class="project-title">Project One</h3>
-					<p class="project-desc">Short description placeholder that summarises the project's goal and impact in one sentence.</p>
+					<p class="project-desc">As a group 84, we builded AND, OR, NOT, additionally, collaborated with other teams to build XOR, NAND logic gates. The link of our video is below. 
+                    https://youtu.be/Z4s4WlxwelQ?si=uJsLkNe1m7S9Jfw9
+                    </p>
 				</div>
 			</article>
 
@@ -61,7 +63,8 @@ title: Projects
 				<div class="card-figure">Project Two — Image</div>
 				<div class="card-body">
 					<h3 class="project-title">Project Two</h3>
-					<p class="project-desc">Short description placeholder that summarises the project's goal and impact in one sentence.</p>
+					<p class="project-desc">Me and my teammates went to a school far from the city, where the students were not very familiar with technology. We taught the students how to create algorithms, and in the end, to make them happy, we gave them certificates. You can watch the video.
+                    </p>
 				</div>
 			</article>
 
@@ -70,7 +73,7 @@ title: Projects
 				<div class="card-figure">Project Three — Image</div>
 				<div class="card-body">
 					<h3 class="project-title">Project Three</h3>
-					<p class="project-desc">Short description placeholder that summarises the project's goal and impact in one sentence.</p>
+					<p class="project-desc">It was my first time in creating a website using html, css, and so on all together. It was very good and interesting experience.</p>
 				</div>
 			</article>
 
