@@ -100,7 +100,8 @@ plugins:
   - jekyll-feed
 
 # Navigation
-nav_pages:
+minima:
+  nav_pages:
   - index.md
   - about.md
   - projects.md

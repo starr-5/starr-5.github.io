@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-
+This is my Home page.
 <style>
 	:root {
 		--bg: #FFF8FA;
@@ -94,8 +94,8 @@ title: Home
 <div class="home-hero-wrap">
 	<div class="home-hero">
 		<div class="hero-card hero-intro">
-			<h1 class="hero-title">{{ site.author.name | default: "Your Name" }}</h1>
-			<p class="hero-subtitle">Hi — I’m {{ site.author.name | default: "Your Name" }}, a product-focused designer & developer. I build simple, beautiful interfaces and thoughtful experiences that solve real problems.</p>
+			<h1 class="hero-title">{{ site.author.name | default: "Aida Baghirzade" }}</h1>
+			<p class="hero-subtitle">Hi — I’m {{ site.author.name | default: "Aida Baghirzade" }}, a student studying Computer Science. I build simple, beautiful interfaces.</p>
 
 			<div class="cta-row">
 				<a href="#projects" class="btn-soft">View projects</a>
@@ -120,15 +120,15 @@ title: Home
 
 	<div class="projects-grid">
 		<article class="project-card">
-			<h3 class="project-title">Project One — Placeholder</h3>
+			<h3 class="project-title">Project One — Logic Gates</h3>
 		</article>
 
 		<article class="project-card">
-			<h3 class="project-title">Project Two — Placeholder</h3>
+			<h3 class="project-title">Project Two — Hour of Code</h3>
 		</article>
 
 		<article class="project-card">
-			<h3 class="project-title">Project Three — Placeholder</h3>
+			<h3 class="project-title">Project Three — First Personal Website</h3>
 		</article>
 	</div>
 </main>

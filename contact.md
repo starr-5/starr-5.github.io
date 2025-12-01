@@ -3,7 +3,8 @@
 layout: page
 title: Contact
 ---
-
+Email: studying12567@gmail.com  
+Social: [GitHub](https://github.com/starr-5)
 <style>
 	:root {
 		--bg: #FFF8FA;
