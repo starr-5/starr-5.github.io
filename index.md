@@ -98,8 +98,9 @@ This is my Home page.
 			<p class="hero-subtitle">Hi — I’m {{ site.author.name | default: "Aida Baghirzade" }}, a student studying Computer Science. I build simple, beautiful interfaces.</p>
 
 			<div class="cta-row">
-				<a href="#projects" class="btn-soft">View projects</a>
-				<a href="/about/" class="card-link" style="display:inline-block;padding:.65rem 1rem;border-radius:999px;background:transparent;border:1px solid rgba(34,34,34,0.06);text-decoration:none;color:var(--text);">About me</a>
+				<a href="{{ '/projects/' | relative_url }}" class="btn-soft">View projects</a>
+				<a href="{{ '/about/' | relative_url }}" class="card-link" style="display:inline-block;padding:.65rem 1rem;border-radius:999px;background:transparent;border:1px solid rgba(34,34,34,0.06);text-decoration:none;color:var(--text);">About me</a>
+
 			</div>
 		</div>
 

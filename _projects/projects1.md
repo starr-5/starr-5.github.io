@@ -2,4 +2,4 @@
 title: Project 1
 layout: page
 ---
-This is my first project.
+Details about Project 1 here.

@@ -2,4 +2,4 @@
 title: Project 3
 layout: page
 ---
-This is my third project.
+Details about Project 3 here.

@@ -56,5 +56,8 @@ Social: [GitHub](https://github.com/starr-5)
 
 		<footer style="font-size:.95rem;color:var(--text);opacity:.8;padding-top: .5rem;">Prefer not to share email? You can also reach me by opening a GitHub issue on a project or via social links above.</footer>
 	</div>
+{{ '/about/' | relative_url }}
+{{ '/projects/' | relative_url }}
+
 </section>
 
