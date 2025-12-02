@@ -1,5 +1,14 @@
 <header class="site-header">
+title: "My Portfolio"
+author: "Aida Baghirzade"
 
+
+minima:
+  nav_pages:
+    - index.md
+    - about.md
+    - projects.md
+    - contact.md  
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
