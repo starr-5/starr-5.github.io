@@ -1,5 +1,5 @@
 ---
-title: Project 3
 layout: page
+title: Project Three
 ---
-Details about Project 3 here.
+Details about Project Three — description, links, or anything you want.

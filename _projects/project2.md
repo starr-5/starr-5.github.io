@@ -1,5 +1,6 @@
 ---
-title: Project 2
 layout: page
+title: Project Two
 ---
-Details about Project 2 here.
+Details about Project Two — add description, images, or links.
+
